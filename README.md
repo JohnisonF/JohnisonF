@@ -1,6 +1,6 @@
 <h3>Skills</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,php,js,svelte,sass,nodejs,git,regex)
+![My Skills](https://skillicons.dev/icons?i=html,css,php,js,svelte,sass,nodejs,git,regex,wordpress)
 
 <h1 align="center">
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JohnisonF.JohnisonF" />
