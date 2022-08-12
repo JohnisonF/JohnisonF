@@ -13,5 +13,10 @@
 
 <h1 align="center"></h1>
 <h2>Links</h2>
-<a href="https://www.linkedin.com/in/johnison-furman-33b7b8192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
+[![LinkedIn][1.1]][1]
+
+[1.1]: https://s4.uupload.ir/files/linkedin_amwn.png
+[1]: https://www.linkedin.com/in/johnison-furman-33b7b8192
+
 
