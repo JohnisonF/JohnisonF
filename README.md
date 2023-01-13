@@ -9,7 +9,7 @@
 
 <img height="10px" />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JohnisonF&bg_color=00000000&color=ffffff&line=1cc2ff&point=ffffff&area=true&hide_border=false&radius=1)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JohnisonF&bg_color=00000000&color=ffffff&line=1cc2ff&point=ffffff&area=true&hide_border=false&radius=1)
 
 <h1 align="center"></h1>
 <h2>Links</h2>
