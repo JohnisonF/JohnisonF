@@ -14,7 +14,7 @@
 [1.1]: https://s4.uupload.ir/files/linkedin_amwn.png
 [1]: https://www.linkedin.com/in/johnison-furman/
 
-[Portifólio](https:/johnisonf.com)
+[Portifólio](https://johnisonf.com)
 
 
 
